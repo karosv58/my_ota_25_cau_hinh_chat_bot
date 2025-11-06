@@ -1,11 +1,12 @@
 {
-  "ok": true,
-  "firmware": {
-    "version": "2.0.3",
-    "url": "https://heylily.net/ota/25okgood.bin",
-    "force": 0
-  }
+    "ok": true,
+    "firmware": {
+      "version": "2.0.3",
+      "url": "https://heylily.net/ota/25okgood.bin",
+      "force": 0
+    }
 }
+
 
 
 
